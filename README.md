@@ -52,6 +52,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jmphdev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-José%20María%20Pozo%20Hidalgo Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/jmphdev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-José%20María%20Pozo%20Hidalgo-blue?style=flat-square&logo=linkedin"></a>
 <a href="josemariph7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-josemariph7@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
