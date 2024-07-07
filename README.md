@@ -10,7 +10,7 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
-
+<br></br>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -50,7 +50,7 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
+<br></br>
 <p align="center">
 <a href="https://www.linkedin.com/in/jmphdev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-José%20María%20Pozo%20Hidalgo-blue?style=flat-square&logo=linkedin"></a>
 <a href="josemariph7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-josemariph7@gmail.com-blue?style=flat-square&logo=gmail"></a>
