@@ -43,10 +43,11 @@
 
 <br/>
 
-<a href="https://github.com/Josemariph7" >
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center" href="https://github.com/Josemariph7" >
+<a>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemariph7&theme=tokyonight&show_icons=true" />
 </a>
+</p>
 
 <br/>
 
@@ -57,4 +58,5 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:josemariph7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-josemariph7@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
 
