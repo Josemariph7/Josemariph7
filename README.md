@@ -43,7 +43,7 @@
 
 <br/>
 
-<a href="https://github.com/Josemariph7">
+<a align="center" href="https://github.com/Josemariph7" >
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemariph7&theme=tokyonight&show_icons=true" />
 </a>
 
