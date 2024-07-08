@@ -2,11 +2,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🌱 &nbsp; Passionate about technology and continuous learning.
-- 👨🏻‍🎓 &nbsp; Completed my studies in Multiplatform Application Development.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Recently completed my studies in Multiplatform Application Development.
 - 💼 &nbsp; Gained practical experience through internships and coursework, providing a broad view of software development processes.
-- 🤝 &nbsp; Seeking opportunities as a developer to apply my skills and learn from experienced professionals.
-- 💡 &nbsp; Enthusiastic about tackling new challenges and contributing positively to the success of projects.
+- 🌱 &nbsp; Continuously learning more about various aspects of software development.
+- ✍️ &nbsp; Interested in contributing to innovative projects and tackling new challenges with enthusiasm.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
