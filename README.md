@@ -2,11 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Recently completed my studies in Multiplatform Application Development.
-- 💼 &nbsp; Gained practical experience through internships and coursework, providing a broad view of software development processes.
-- 🌱 &nbsp; Continuously learning more about various aspects of software development.
-- ✍️ &nbsp; Interested in contributing to innovative projects and tackling new challenges with enthusiasm.
+- 🤔 &nbsp; Passionate about technology and continuous learning.
+- 🎓 &nbsp; Specially Backend developer, Android and DevOps.
+- 🌱 &nbsp; Learning more about Spring Boot and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
