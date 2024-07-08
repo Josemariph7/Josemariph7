@@ -1,49 +1,47 @@
-
-
 <h2> Hey there! I'm José María.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🌱 &nbsp; Passionate about technology and continuous learning.
+- 👨🏻‍🎓 &nbsp; Completed my studies in Multiplatform Application Development.
+- 💼 &nbsp; Gained practical experience through internships and coursework, providing a broad view of software development processes.
+- 🤝 &nbsp; Seeking opportunities as a developer to apply my skills and learn from experienced professionals.
+- 💡 &nbsp; Enthusiastic about tackling new challenges and contributing positively to the success of projects.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Groovy](https://img.shields.io/badge/-Groovy-333333?style=flat&logo=Apache-Groovy)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![OracleDB](https://img.shields.io/badge/-OracleDB-333333?style=flat&logo=oracle)
+  ![Hibernate](https://img.shields.io/badge/-Hibernate-333333?style=flat&logo=hibernate)
+  ![NeoDatis](https://img.shields.io/badge/-NeoDatis-333333?style=flat)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=000000)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+  ![NetBeans](https://img.shields.io/badge/-NetBeans-333333?style=flat&logo=apache-netbeans-ide&logoColor=1B6AC6)
 
 <br/>
 
 <a href="https://github.com/AVS1508">
- <img  float="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnaiman&theme=tokyonight&show_icons=true" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnaiman&theme=tokyonight&show_icons=true" />
 </a>
 
 <br/>
@@ -52,5 +50,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jmphdev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-José%20María%20Pozo%20Hidalgo-blue?style=flat-square&logo=linkedin"></a>
-<a href="josemariph7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-josemariph7@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:josemariph7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-josemariph7@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
