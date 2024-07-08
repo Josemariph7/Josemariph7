@@ -49,7 +49,6 @@
 </a>
 </p>
 
-<br/>
 
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 
