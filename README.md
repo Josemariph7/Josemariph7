@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Passionate about technology and continuous learning.
-- 🎓 &nbsp; Specially Backend developer, Android and DevOps.
-- 🌱 &nbsp; Learning more about Spring Boot and Artificial Intelligence.
+- 🤔 Passionate about technology and continuous learning.
+- 🎓 Specialized in Backend development, Android, and DevOps.
+- 🌱 Currently learning more about Spring Boot and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
