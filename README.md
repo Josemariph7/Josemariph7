@@ -49,7 +49,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jmphdev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-José%20María%20Pozo%20Hidalgo-blue?style=flat-square&logo=linkedin"></a>
