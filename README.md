@@ -32,6 +32,9 @@
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
   ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
   ![JavaFX](https://img.shields.io/badge/-JavaFX-333333?style=flat&logo=javafx)
+   ![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=maven)
+   ![Gradle](https://img.shields.io/badge/-Gradle-333333?style=flat&logo=gradle)
+  
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
