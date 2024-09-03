@@ -5,7 +5,7 @@
 - 🤔 Passionate about technology and continuous learning.
 - 🎓 Specialized in Backend development, Android, and DevOps.
 - 🌱 Currently learning more about Spring Boot and Artificial Intelligence.
-
+ 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
